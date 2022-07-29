@@ -1,0 +1,59 @@
+
+#header-nav {
+  background-color: #CBC3E3;
+  border-radius: 0;
+  border: 0;
+}
+
+#logo-txt {
+  font-size: 45px;
+  margin-left: auto;
+}
+
+#main-content {
+  background-color: grey;
+  height: 1000px;
+  margin: 10px, 10px, 10px, 10px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  overflow: hidden;
+}
+
+#content-title{
+  padding-bottom: 15px;
+  font-size: 35px;
+  text-align: center;
+}
+
+
+.title h1{
+  font-size: 50px;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: left;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.navbar-header h1 {
+  color: black;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+}
+
